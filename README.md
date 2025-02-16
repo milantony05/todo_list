@@ -2,6 +2,8 @@
 
 To-Do List is a simple task management application that helps users organize their daily tasks efficiently.
 
+<img width="461" alt="todo_list" src="https://github.com/user-attachments/assets/6a9e469b-0e96-4ebf-ac83-51e0509a21f9" />
+
 ## Demo
 
 Live demo: [To-Do List](https://milantony05.github.io/todo_list/)
